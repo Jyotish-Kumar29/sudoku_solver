@@ -9,6 +9,9 @@ This project is a web-based Sudoku Solver that allows users to input a Sudoku pu
 - **Clear Board**: Users can clear the board to input a new puzzle.
 - **Three Difficulty Levels**: Includes examples of easy, medium, and hard puzzles.
 
+## Test It
+https://jyotish-kumar29.github.io/sudoku_solver/ 
+
 ## Files
 
 ### index.html
